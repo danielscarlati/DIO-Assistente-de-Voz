@@ -1,0 +1,25 @@
+Textos:
+- Speech to text
+	Qual é a previsão do tempo de hoje?
+- Text to speech
+	Aqui está a previsão do tempo para São Paulo, SP, Brasil, hoje (sexta-feira, 20 de fevereiro de 2026):
+
+🌤️ Condições gerais:
+
+Manhã com nuvens dispersas e temperaturas pela manhã em torno de 18 °C.
+
+No decorrer do dia o clima permanece entre nublado e parcialmente nublado com máxima por volta de 31 °C.
+
+Durante a noite o céu segue parcialmente nublado com temperaturas mais amenas.
+
+🌡️ Temperaturas esperadas:
+
+Mínima: 18 °C
+
+Máxima: 31 °C
+
+🌦️ Chance de chuva: Algumas horas do dia podem ter tempo mais instável, com possibilidade de chuva fraca em parte do período, conforme modelos meteorológicos locais.
+
+💨 Vento: Ventos de intensidade moderada podem ocorrer ao longo do dia.
+
+📌 Resumo: será um dia quente, com céu variando entre nuvens e sol, e chance de chuva fraca em algumas horas.
